@@ -2,7 +2,6 @@
     author = "Maji, Debapriya and Nagori, Soyeb and Mathew, Manu and Poddar, Deepak",
     booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
     doi = "10.1109/CVPRW56347.2022.00297",
-    keywords = "Training;Measurement;Heating systems;Conferences;Pose estimation;Object detection;Skeleton",
     number = "",
     pages = "2636-2645",
     title = "{YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss}",
